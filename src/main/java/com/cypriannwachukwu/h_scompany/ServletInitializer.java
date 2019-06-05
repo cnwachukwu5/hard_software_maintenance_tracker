@@ -1,4 +1,4 @@
-package com.cypriannwachukwu.h_scompany.appconfiguration;
+package com.cypriannwachukwu.h_scompany;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
